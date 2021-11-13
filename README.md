@@ -1,4 +1,7 @@
 # Reeco
+
+## CLI IS BROKEN FOR THE TIME BEING, ALTHOUGH YOU CAN RUN THE CODE FROM YOUR GAME CODE DIRECTORY
+
 Reeco is a CLI that helps you create game with p5.js (or any other graphics/game library) and bring it to your desktop.
 
 ## Support for other Libraries
